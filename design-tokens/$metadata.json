@@ -1,0 +1,21 @@
+{
+  "tokenSetOrder": [
+    "primitives/globals",
+    "primitives/size/default",
+    "primitives/modes/typography/primary/hu",
+    "primitives/modes/typography/secondary/hu",
+    "primitives/modes/color-scheme/light/global",
+    "primitives/modes/color-scheme/light/hu",
+    "primitives/modes/color-scheme/dark/global",
+    "primitives/modes/color-scheme/dark/hu",
+    "themes/hu",
+    "semantic/color",
+    "semantic/modes/main-color/brand-dark",
+    "semantic/modes/main-color/brand-lys",
+    "semantic/modes/support-color/brand1",
+    "semantic/modes/support-color/brand2",
+    "semantic/modes/support-color/brand3",
+    "semantic/style",
+    "Figma/components"
+  ]
+}
